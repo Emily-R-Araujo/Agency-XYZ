@@ -48,7 +48,6 @@ body {
     justify-content: center;
     align-items: center;
     position: relative;
-    /* O background-size: cover faz com que a imagem se adeque ao tamanho da tela, deixando a imagem mais proporcional. */
 }
 
 .hero h2 {
